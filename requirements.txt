@@ -6,3 +6,4 @@ prefect
 pymongo
 psycopg2
 python-dotenv
+pyroot
