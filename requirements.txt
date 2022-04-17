@@ -2,7 +2,7 @@ lxml
 pandas
 voluptuous
 xmltodict
-prefect
+prefect[github]
 pymongo
 psycopg2
 python-dotenv
