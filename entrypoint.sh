@@ -1,3 +1,3 @@
 prefect backend cloud
-#prefect auth login --key $PREFECT_KEY
-#prefect agent local start --label $PREFECT_LABEL
+prefect auth login --key $PREFECTAPIKEY
+prefect agent local start --label 'kube_local_1'
