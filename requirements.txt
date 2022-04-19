@@ -4,8 +4,8 @@ dropbox~=9.0,>9.3
 dask>=2022.4.1
 croniter>1.2.0
 click>=8.1.0
-dask-cloudprovider>=2022.1.0
-dask-cloudprovider[aws]>=2022.1.0
+dask-cloudprovider
+dask-cloudprovider[aws]
 dnspython>=0.5
 cloudpickle>=1.5.0
 boto3>=1.21.40
