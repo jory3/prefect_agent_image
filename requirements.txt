@@ -2,8 +2,8 @@ lxml
 pandas
 voluptuous
 xmltodict
-prefect[github]
-pymongo
+prefect[all_extras]
+pymongo[srv]
 psycopg2
 python-dotenv
 pyroot
