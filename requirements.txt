@@ -34,6 +34,7 @@ prefect[twitter]>=1.2.0
 prefect[airtable]>=1.2.0
 prefect[spacy]>=1.2.0
 prefect[redis]>=1.2.0
+prefect[github]>=1.2.0
 pymongo[srv]
 psycopg2
 python-dotenv>=0.19.1
