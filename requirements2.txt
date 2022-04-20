@@ -1,0 +1,5 @@
+prefect[all_extras]>=1.2.0
+pymongo[srv]
+psycopg2
+python-dotenv>=0.19.1
+pyroot>=0.2.0

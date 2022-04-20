@@ -1,16 +1,13 @@
 feedparser>=6.0.8
 docker>=5.0.3
 dropbox~=9.0,>9.3
-dask>=2022.4.1
 croniter>1.2.0
 click>=8.1.0
-dask-cloudprovider
-dask-cloudprovider[aws]
 dnspython>=0.5
 cloudpickle>=1.5.0
 boto3>=1.21.40
 distributed>=2022.4.1
-dask_kubernetes>=2022.1.0
+dask_kubernetes
 azure_storage_blob>=12.10.0
 azure_core>=1.23.0
 azure_cosmos>=3.2.0
@@ -28,8 +25,3 @@ lxml
 pandas
 voluptuous
 xmltodict
-prefect[all_extras]>=1.2.0
-pymongo[srv]
-psycopg2
-python-dotenv>=0.19.1
-pyroot>=0.2.0
